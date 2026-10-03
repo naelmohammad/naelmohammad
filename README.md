@@ -59,7 +59,7 @@ Production-grade agentic systems and staff-level LLM engineering — working thr
 ### 📫 Let's connect
 
 - 📧 [nael@nael.org](mailto:nael@nael.org)
-- 💼 LinkedIn: [add your profile URL here]
+- 💼 LinkedIn: [https://linkedin.com/in/naelmohammad]
 - 🌐 [nael.org](https://nael.org)
 
 ---
