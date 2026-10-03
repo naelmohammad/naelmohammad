@@ -38,9 +38,9 @@ Outside of my day job, I run my own portfolio of web properties as a hands-on wa
 - 🕌 **Haadi** — a ground-up rebuild of an Islamic educational platform ([haadi.org](https://haadi.org))
 - 🕌 **SF Muslim** — a California halal directory ([sfmuslim.com](https://sfmuslim.com))
 - 👤 **nael.org** — personal site ([nael.org](https://nael.org))
-- 🔷 **nmatrix.org** — realtime telemetry and datamesh management [nmatrix.org](https://nmatrix.org)
+- 🔷 **nmatrix.org** — realtime telemetry and datamesh management ([nmatrix.org](https://nmatrix.org))
 - 📱 **SnizzApp** — an app development framework POC ([snizzapp.com](https://snizzapp.com))
-- 🧩 **AppZed** — AI Orchestration POC [appzed.com](https://appzed.com)
+- 🧩 **AppZed** — AI Orchestration POC ([appzed.com](https://appzed.com))
 - 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon (more retail/grocery vendors in progress)
 - 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features ([shopdifferent.com](https://shopdifferent.com))
 - 🌐 A broader portfolio of 30+ web properties, each one also a live testbed for sharpening my dev, infra, and AI-agentic workflow skills
