@@ -30,9 +30,9 @@ I'm now moving into a new role, bringing that same enterprise infrastructure and
 ### 💡 What I'm building
 
 - 🕌 **Haadi** — a ground-up rebuild of an Islamic educational platform ([haadi.org](https://haadi.org))
-- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon (more retail/grocery vendors in progress)
-- 💸 **Token Tab** — a lightweight AI model pricing calculator ([shopdifferent.com](https://shopdifferent.com))
-- 🌐 A broader portfolio of 30+ web properties spanning Islamic technology, AI/infrastructure consulting, and other side projects
+- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon ([shopdifferent.com](https://shopdifferent.com))
+- 💸 **Token Tab** — a lightweight AI model pricing calculator 
+- 🌐 A broader portfolio of 30+ web properties spanning Islamic technology, AI/infrastructure consulting, and other side projects ([nael.org](https://www.nael.org))
 
 > 🔒 _Some project repos are currently private while still in active development — happy to walk through the architecture or code directly if you're interested._
 
