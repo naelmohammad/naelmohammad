@@ -29,8 +29,8 @@ Outside of my day job, I run my own portfolio of web properties as a hands-on wa
 
 ### 🏅 Certifications
 
-- ✅ AWS Certified Solutions Architect – Professional
-- ✅ AWS Certified Security – Specialty
+- ✅ AWS Certified Solutions Architect – Professional - expired
+- ✅ AWS Certified Security – Specialty - expired
 - 🌟 AWS Technical Field Community Champion (OpenAI Codex)
 
 ### 💡 What I'm building
