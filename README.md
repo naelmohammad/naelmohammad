@@ -12,7 +12,7 @@
 
 I spend my days deep in enterprise infrastructure — helping large customers get **OpenSearch**, **ElastiCache**, and cloud architecture right, and get their cloud spend under control. Eight years as a Senior Technical Account Manager at AWS taught me how to diagnose production issues under pressure, work directly with engineering leadership, and translate between deep technical detail and business impact.
 
-I'm now moving into a Technical Success Account Manager role at Google, bringing that same enterprise infrastructure and cost-optimization background to a new stack.
+I'm now moving into a new role, bringing that same enterprise infrastructure and cost-optimization background to a new stack, looking for new oppurtunties.
 
 ### ⚙️ Core expertise
 
