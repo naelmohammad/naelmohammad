@@ -31,7 +31,7 @@ I'm now moving into a new role, bringing that same enterprise infrastructure and
 
 - 🕌 **Haadi** — a ground-up rebuild of an Islamic educational platform ([haadi.org](https://haadi.org))
 - 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon ([shopdifferent.com](https://shopdifferent.com))
--  **Halal Directory** — a California Halal Directory service on Cloudflare Workers and Cloudflare Workers AI. ([sfmuslim.com])(https://www.sfmuslim.com)) 
+-  **Halal Directory** — a California Halal Directory service on Cloudflare Workers and Cloudflare Workers AI. ([sfmuslim.com](https://www.sfmuslim.com)) 
 - 💸 **Token Tab** — a lightweight AI model pricing calculator 
 - 🌐 A broader portfolio of 30+ web properties spanning Islamic technology, AI/infrastructure consulting, and other side projects ([nael.org](https://www.nael.org))
 
