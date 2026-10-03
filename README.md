@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nael Mohammad
 
-🛠️ Senior Technical Account Manager @ AWS (8 years) → Technical Success Account Manager track @ Google
+🛠️ Senior Technical Account Manager @ AWS (8 years) --> Open to new opportunities 
 ☁️ Cloud infrastructure, search, and caching specialist — I help enterprises run faster and spend less
 🤖 Building hands-on with LLMs, RAG pipelines, and agentic systems
 🕌 Building tools at the intersection of Islamic education and applied AI
