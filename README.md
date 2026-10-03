@@ -41,8 +41,8 @@ Outside of my day job, I run my own portfolio of web properties as a hands-on wa
 - 🔷 **nmatrix.org** — realtime telemetry and datamesh management ([nmatrix.org](https://nmatrix.org))
 - 📱 **SnizzApp** — an app development framework POC ([snizzapp.com](https://snizzapp.com))
 - 🧩 **AppZed** — AI Orchestration POC ([appzed.com](https://appzed.com))
-- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon (more retail/grocery vendors in progress)
-- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features ([shopdifferent.com](https://shopdifferent.com))
+- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon (more retail/grocery vendors in progress)([shopdifferent.com](https://shopdifferent.com))
+- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features (TBD)
 - 🌐 A broader portfolio of 30+ web properties, each one also a live testbed for sharpening my dev, infra, and AI-agentic workflow skills
 
 > 🔒 _Some project repos are currently private while still in active development — happy to walk through the architecture or code directly if you're interested._
