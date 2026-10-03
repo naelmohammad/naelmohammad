@@ -36,10 +36,10 @@ Outside of my day job, I run my own portfolio of web properties as a hands-on wa
 ### 💡 What I'm building
 
 - 🕌 **Haadi** — a ground-up rebuild of an Islamic educational platform ([haadi.org](https://haadi.org))
-- 🕌 **SF Muslim** — Halal Directory - California [sfmuslim.com](https://sfmuslim.com)
+- 🕌 **SF Muslim** — Halal Directory - California ([sfmuslim.com](https://sfmuslim.com))
 - 👤 **nael.org** — personal site ([nael.org](https://nael.org))
 - 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for major partners ([shopdifferent.com](https://shopdifferent.com))
-- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features - TBD
+- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features - (TBD)
 - 🌐 A broader portfolio of 30+ web properties, each one also a live testbed for sharpening my dev, infra, and AI-agentic workflow skills
 
 > 🔒 _Some project repos are currently private while still in active development — happy to walk through the architecture or code directly if you're interested._
