@@ -1,4 +1,4 @@
-# 👋 Hi Stranger, I'm Nael Mohammad
+# 👋 Hi, I'm Nael Mohammad
 
 🛠️ Senior Technical Account Manager @ AWS (8 years)
 ☁️ Cloud infrastructure, security, and networking specialist — I help enterprises run faster, safer, and cheaper
@@ -29,17 +29,20 @@ Outside of my day job, I run my own portfolio of web properties as a hands-on wa
 
 ### 🏅 Certifications
 
-- ✅ AWS Certified Solutions Architect – Professional - expired
-- ✅ AWS Certified Security – Specialty - expired
+- ✅ AWS Certified Solutions Architect – Professional
+- ✅ AWS Certified Security – Specialty
 - 🌟 AWS Technical Field Community Champion (OpenAI Codex)
 
 ### 💡 What I'm building
 
 - 🕌 **Haadi** — a ground-up rebuild of an Islamic educational platform ([haadi.org](https://haadi.org))
-- 🕌 **SF Muslim** — Halal Directory - California ([sfmuslim.com](https://sfmuslim.com))
+- 🕌 **SF Muslim** — a California halal directory ([sfmuslim.com](https://sfmuslim.com))
 - 👤 **nael.org** — personal site ([nael.org](https://nael.org))
-- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for major partners ([shopdifferent.com](https://shopdifferent.com))
-- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features - (TBD)
+- 🔷 **nmatrix.org** — realtime telemetry and datamesh management [nmatrix.org](https://nmatrix.org)
+- 📱 **SnizzApp** — an app development framework POC ([snizzapp.com](https://snizzapp.com))
+- 🧩 **AppZed** — AI Orchestration POC [appzed.com](https://appzed.com)
+- 🛒 **Price Compare API** — a shopping price-comparison service on Cloudflare Workers, with adapters for eBay, Walmart, and Amazon (more retail/grocery vendors in progress)
+- 💸 **Token Tab** — an AI shopping comparison tool with agentic AI shopping features ([shopdifferent.com](https://shopdifferent.com))
 - 🌐 A broader portfolio of 30+ web properties, each one also a live testbed for sharpening my dev, infra, and AI-agentic workflow skills
 
 > 🔒 _Some project repos are currently private while still in active development — happy to walk through the architecture or code directly if you're interested._
@@ -59,9 +62,9 @@ Production-grade agentic systems and staff-level LLM engineering — working thr
 ### 📫 Let's connect
 
 - 📧 [nael@nael.org](mailto:nael@nael.org)
-- 💼 LinkedIn: [https://linkedin.com/in/naelmohammad]
+- 💼 LinkedIn: [add your profile URL here]
 - 🌐 [nael.org](https://nael.org)
 
 ---
 
-<sub>⚡ Powered by curiosity, caffeine, and a genuine love of solving hard infra problems.</sub>
+<sub>⚡ Powered by caffeine, curiosity, and a genuine love of solving hard infra problems.</sub>
