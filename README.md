@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nael Mohammad
+# 👋 Hi Stranger, I'm Nael Mohammad
 
 🛠️ Senior Technical Account Manager @ AWS (8 years)
 ☁️ Cloud infrastructure, security, and networking specialist — I help enterprises run faster, safer, and cheaper
