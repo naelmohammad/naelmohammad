@@ -32,8 +32,44 @@
 
 ## 📊 Stats
 
-[![Nael's GitHub stats](https://github-readme-stats.vercel.app/api?username=naelmohammad&show_icons=true&theme=dark)](https://github.com/naelmohammad)
+[![Nael's GitHub stats](https://github-readme-stats.vercel.app/api?username=naelmohammad&show_icons=true&theme=dark&hide_rank=true)](https://github.com/naelmohammad)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naelmohammad&layout=compact&theme=dark)](https://github.com/naelmohammad)
+
+## 😄 Fresh jokes, zero deploys
+
+[![Dev joke](https://readme-jokes.vercel.app/api?theme=dark)](https://github.com/naelmohammad)
+
+## ☁️🤖 Cloud & AI arsenal
+
+`01000001 01001001` → AI
+
+```
++-------------------------------------------+
+| AWS - 8 yrs, Sr TAM                       |
+|  EC2 - S3 - IAM - VPC - CDN               |
+|  Bedrock - SageMaker - OpenSearch         |
+|  ElastiCache - Security Specialty         |
+|-------------------------------------------|
+| GCP                                       |
+|  Gemini - Firebase                        |
+|-------------------------------------------|
+| Cloudflare                                |
+|  Workers - Pages - Wrangler - CDN         |
+|-------------------------------------------|
+| AI                                        |
+|  Claude - Codex - Bedrock - Muse Spark    |
+|  RAG - LangChain - agentic workflows      |
++-------------------------------------------+
+```
+
+| Cloud | Home turf |
+|-------|-----------|
+| AWS | 8 yrs Sr TAM — EC2/S3/IAM, Bedrock, SageMaker, OpenSearch, ElastiCache, cost + security |
+| GCP | Gemini, Firebase |
+| Cloudflare | Workers, Pages, Wrangler, CDN |
+| AI bench | Claude (+ Code), Codex, Bedrock, Muse Spark, Antigravity, RAG/LangChain agents |
+
+Full inventory: [Expertise](docs/expertise.md).
 
 ## 📚 More
 
